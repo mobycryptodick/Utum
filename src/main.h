@@ -53,7 +53,7 @@ struct CBlockTemplate;
 struct CNodeStateStats;
 
 /** Masternode Amount **/
-static const int MASTERNODEAMOUNT = 3000;
+static const int MASTERNODEAMOUNT = 30000;
 
 /** Default for -blockmaxsize and -blockminsize, which control the range of sizes the mining code will create **/
 static const unsigned int DEFAULT_BLOCK_MAX_SIZE = 3000000;
