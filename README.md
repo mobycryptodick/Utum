@@ -47,7 +47,7 @@ Type: POW / POS / MN
 Block Time: 1 minute
 Min. staking age: 2 hours
 Rewards: MN - 60%, POS - 40%
-Last POW Block: 3000
+Last POW Block: 30000
 Max Coin Supply: 100 000 000 
 Coins required for MN:  3000
 Premine: 352 000
